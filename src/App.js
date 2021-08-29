@@ -20,6 +20,7 @@ const Post = ({ post }) => {
       </LazyLoad>
       <div className="post-body">
         <h4>{title}</h4>
+        <h6>Vunv</h6>
         <p>{body}</p>
       </div>
     </div>
